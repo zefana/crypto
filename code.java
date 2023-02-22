@@ -42,7 +42,7 @@ class gfg {
     // The Driver code
     public static void main(String[] args)
     {
-        int N = 45;
+        int N = 43;
  
         prime_N(N);
     }
